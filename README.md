@@ -1,5 +1,7 @@
 # Replace your local path.[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 
+## Support qqmusic files （"*.qmc0","*.qmc3" and "*.qmcflac"）.
+
 e.g. 
 
 final File f = new File("/storage/emulated/0","test.qmc3");
